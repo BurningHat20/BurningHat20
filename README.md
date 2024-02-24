@@ -51,6 +51,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/BurningHat20/BurningHat20/output/snake.svg" alt="Snake animation" />
+<img src="https://githubusercontent.com/BurningHat20/BurningHat20/snake.yml" alt="Snake animation" />
 
 ###
