@@ -31,7 +31,7 @@
 
 ###
 
-<img align="right" height="150" src="https://gifdb.com/images/high/obito-uchiha-happily-laughing-rjuxns0qd5h2vsfg.gif"  />
+<img align="right" height="150" src="https://i.gifer.com/8UV1.gif"  />
 
 ###
 
@@ -51,6 +51,6 @@
 
 <br clear="both">
 
-<img src="https://githubusercontent.com/BurningHat20/BurningHat20/snake.yml" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/BurningHat20/BurningHat20/output/snake.svg" alt="Snake animation" />
 
 ###
