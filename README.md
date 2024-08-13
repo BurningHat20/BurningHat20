@@ -75,7 +75,7 @@
 ## 🎵 Currently Vibing To
 
 <p align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31iu4lwtpu2r3vemf2vt66hdmr6e&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31iu4lwtpu2r3vemf2vt66hdmr6e&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" width="400" />
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31iu4lwtpu2r3vemf2vt66hdmr6e&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" width="400" />
 </p>
 
 ## 📫 Let's Connect!
