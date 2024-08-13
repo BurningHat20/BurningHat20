@@ -5,7 +5,7 @@
   ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Welcome+to+the+Realm+of+Infinite+Possibilities!)
 
   [![GitHub followers](https://img.shields.io/github/followers/BurningHat20?style=social)](https://github.com/BurningHat20)
-  [![Twitter Follow](https://img.shields.io/twitter/follow/BurningHat20?style=social)](https://twitter.com/BurningHat20)
+  [![Twitter Follow](https://img.shields.io/twitter/follow/yashgohel_?style=social)](https://twitter.com/yashgohel_)
 
   [<img src="https://raw.githubusercontent.com/BurningHat20/BurningHat20/output/snake.svg" alt="🐍 Snake Game" />](https://github.com/BurningHat20)
 
@@ -102,10 +102,10 @@
 
 <div align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yash-gohel)
-  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/BurningHat20)
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashgohel395@gmail.com)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://your-portfolio-url.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-gohel-187812277)
+  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yashgohel_)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:burninghat20@gmail.com)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://https://www.burninghat.tech/)
 
 </div>
 
