@@ -1,106 +1,125 @@
+# 🔥 BurningHat20's Blazing Code Sanctuary 🚀
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Welcome+to+BurningHat20's+Blazing+Code+Sanctuary!" alt="Typing SVG" />
-</div>
+  
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Welcome+to+the+Realm+of+Infinite+Possibilities!)
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/BurningHat20/BurningHat20/output/snake.svg" alt="snake" />
-</p>
+  [![GitHub followers](https://img.shields.io/github/followers/BurningHat20?style=social)](https://github.com/BurningHat20)
+  [![Twitter Follow](https://img.shields.io/twitter/follow/BurningHat20?style=social)](https://twitter.com/BurningHat20)
 
-# 🔥 Yash Gohel | Web Developer Extraordinaire 🚀
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Web%20Development-brightgreen" alt="Focus" />
-  <img src="https://img.shields.io/badge/Lives-India-success" alt="Lives" />
-  <img src="https://img.shields.io/badge/Languages-English%20%26%20Hindi-brightgreen" alt="Languages" />
-</p>
-
-
-  <img align="right" alt="Coding" width="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" style="max-width: 30%; height: auto;">
-## 👨‍💻 About Me
-
-<div style="display: flex; align-items: center; justify-content: space-between;">
-  <div style="flex: 1;">
-    <ul>
-      <li>🎓 IT student at L.E. Diploma College, Morbi</li>
-      <li>💼 Web Development Intern at RED Labz</li>
-      <li>🌱 Currently mastering <strong>Next.js</strong> and <strong>GraphQL</strong></li>
-      <li>👯 Looking to collaborate on <strong>Open Source Projects</strong></li>
-      <li>🎯 2024 Goals: Contribute more to Open Source and launch a SaaS product</li>
-    </ul>
-  </div>
+  [<img src="https://raw.githubusercontent.com/BurningHat20/BurningHat20/output/snake.svg" alt="🐍 Snake Game" />](https://github.com/BurningHat20)
 
 </div>
 
-## 🛠️ Tech Arsenal
+## 👨‍💻 Yash Gohel | Web Alchemist & Code Sorcerer
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,mysql,tailwind,git,figma&theme=dark" />
-</p>
+<table>
+  <tr>
+    <td>
+      <ul>
+        <li>🎓 IT Apprentice at L.E. Diploma College, Morbi</li>
+        <li>💼 Crafting Digital Wonders at RED Labz</li>
+        <li>🌱 Conjuring spells with <strong>Next.js</strong> and <strong>GraphQL</strong></li>
+        <li>👯 Seeking fellow wizards for <strong>Open Source Quests</strong></li>
+        <li>🎯 2024 Mission: Enchant the Open Source realm & summon a SaaS familiar</li>
+      </ul>
+    </td>
+    <td>
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+    </td>
+  </tr>
+</table>
 
-## 📊 GitHub Analytics
+## 🛠️ Magical Toolbox
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=BurningHat20&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BurningHat20&layout=compact&langs_count=8&theme=algolia"/>
-</p>
+<div align="center">
+  
+  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+  ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js)
+  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+  ![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+  ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+  ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BurningHat20&theme=algolia" alt="BurningHat20" />
-</p>
+</div>
 
-## 🏆 Achievements & Certifications
+## 📊 Arcane Analytics
 
-- 🥇 1st Place in Gyan Gumbaj 2023 Computer Category
-- 🚀 Led School Dropout Monitoring System project at New India Vibrant Hackathon 2023
-- 📜 AWS Certified Cloud Practitioner
-- 🏅 freeCodeCamp Responsive Web Design Certification
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=BurningHat20&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BurningHat20&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
 
-## 🌟 Featured Projects
+<div align="center">
+  
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BurningHat20&theme=tokyonight)](https://git.io/streak-stats)
 
-<p align="center">
+</div>
+
+## 🏆 Legendary Achievements
+
+<div align="center">
+  
+  ![Trophy](https://github-profile-trophy.vercel.app/?username=BurningHat20&theme=darkhub&no-frame=true&row=1&column=7)
+
+</div>
+
+- 🥇 **Champion** of Gyan Gumbaj 2023 Computer Category
+- 🚀 **Mastermind** behind School Dropout Monitoring System at New India Vibrant Hackathon 2023
+- 📜 **AWS Certified Cloud Practitioner**
+- 🏅 **freeCodeCamp Responsive Web Design Certification**
+
+## 🌟 Enchanted Projects
+
+<div align="center">
   <a href="https://github.com/BurningHat20/Imagi-Sync">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BurningHat20&repo=Imagi-Sync&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BurningHat20&repo=Imagi-Sync&theme=tokyonight" />
   </a>
   <a href="https://github.com/BurningHat20/SumUp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BurningHat20&repo=Global-Culture-Explorer&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BurningHat20&repo=Global-Culture-Explorer&theme=tokyonight" />
   </a>
-</p>
+</div>
 
-## 📈 Activity Graph
+## 📈 Mystical Contribution Graph
+
+<div align="center">
+  
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BurningHat20&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+## 🎵 Current Incantation
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BurningHat20&theme=react-dark" alt="Contribution Graph" />
+  <img
+    src="https://spotify-github-profile.kittinanx.com/api/view?uid=31iu4lwtpu2r3vemf2vt66hdmr6e&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false"
+    width="400"
+  />
 </p>
 
-## 🎵 Currently Vibing To
+## 📫 Summon Me
 
-<p align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31iu4lwtpu2r3vemf2vt66hdmr6e&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" width="400" />
-</p>
+<div align="center">
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yash-gohel)
+  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/BurningHat20)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashgohel395@gmail.com)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://your-portfolio-url.com)
 
-## 📫 Let's Connect!
-
-<p align="center">
-  <a href="https://linkedin.com/in/yash-gohel" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/BurningHat20" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="mailto:yashgohel395@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://your-portfolio-url.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"/>
-  </a>
-</p>
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=BurningHat20&color=blueviolet&style=for-the-badge" alt="Profile views" />
-</p>
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Thanks+for+visiting!+Let's+build+something+amazing+together!" alt="Typing SVG" />
+  
+  ![Visitor Count](https://profile-counter.glitch.me/BurningHat20/count.svg)
+
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Thanks+for+visiting!+Let's+forge+digital+legends+together!)
+
 </div>
